@@ -1,8 +1,5 @@
 ## Overview
 https://github.com/user-attachments/assets/04e30e7a-8d4c-49ac-b057-915de82835bf
-This project encompasses a series of algorithm implementations and data structure designs, aimed at addressing various computational problems. Each section focuses on specific algorithms and systems, including graph algorithms for shortest path finding, data compression techniques, contact tracing, dictionary management, student records, and task management. 
-
----
 
 ## Table of Contents
 
